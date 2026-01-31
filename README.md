@@ -37,4 +37,4 @@ Movable TypeからNext.js静的ブログへの移行プロジェクト。
 
 ## サイト
 
-[https://borderhub.github.io/tetra-archives/archive/all/year/2025/page/1](https://borderhub.github.io/tetra-archives/archive/all/year/2025/page/1)
+[https://as-tetra.github.io/tetra-archives/archive/all/year/2026/page/1](https://as-tetra.github.io/tetra-archives/archive/all/year/2026/page/1)
